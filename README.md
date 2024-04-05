@@ -3,7 +3,7 @@ Css clip-path Hover Effects
 ![tr](https://github.com/Soleymanigolnaz/Trik-Ideas-4/assets/139486149/4236c729-95fb-4dde-8198-7df1a56116c3)
 
 
-- [Demo Project]()
+- [Demo Project](https://soleymanigolnaz.github.io/Trik-Ideas-4/)
 
 - Developed by Golnaz Soleymani Mood
 
